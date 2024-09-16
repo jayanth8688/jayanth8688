@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi! I'm **Jayanth Kotte**, a passionate Bachelor of Technology student with a foundation in computer science and information technology. I have experience in **Java**, **Python**, **MySQL**, and **web technologies** like HTML, CSS, and DevOps.
 
-<!--
-**jayanth8688/jayanth8688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm driven by problem-solving and continuous learning, having worked on projects that range from disaster response management systems to tracking systems using real-time data. My focus is on building solutions that enhance efficiency, safety, and collaboration, especially in **disaster management**.
 
-Here are some ideas to get you started:
+💼 I have interned as a Salesforce Developer at Smartbridge, where I gained hands-on experience in process optimization and project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Certifications in **Microsoft Azure Fundamentals** and **Google Cybersecurity** complement my technical skills, while my participation in hackathons like **SIH 2023** showcases my enthusiasm for innovation and teamwork.
+
+💡 Always looking for opportunities to learn and grow in fields like **Cybersecurity**, **AI**, and **DevOps**.
+
+---
+
+### 🛠️ Skills:
+
+- **Languages**: Java, Python, MySQL, HTML, CSS
+- **Tools & Technologies**: DevOps, DBMS, Git, Salesforce
+- **Areas of Expertise**: Problem Solving, Teamwork & Collaboration, Cybersecurity Fundamentals
+
+---
+
+### 🏆 Achievements:
+
+- **Selected for SIH 2023**: Contributed to a disaster management project aimed at improving response efficiency during emergencies.
+- **Certified in Microsoft Azure Fundamentals**
+- **Certified Ethical Hacker**
+- **Google Cybersecurity Certificate**
+- **Participant in IDE BOOTCAMP Phase-III (AICTE)**: Focused on disaster management solutions.
+- **National Level Hackathon Participant**: Competed in a hackathon organized by SAP.
+
+---
+
+Let’s collaborate and build something impactful together! Feel free to explore my repositories and connect with me. 😊
