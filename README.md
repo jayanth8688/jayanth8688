@@ -26,7 +26,7 @@
 - **Google Cybersecurity Certificate**
 - **Participant in IDE BOOTCAMP Phase-III (AICTE)**: Focused on disaster management solutions.
 - **National Level Hackathon Participant**: Competed in a hackathon organized by SAP.
-* [Explore More](https://github.com/jayanth8688/Achievements)
+* For Certificates & Other Information [VIsit 🏆](https://github.com/jayanth8688/Achievements)
 
 
 ---
